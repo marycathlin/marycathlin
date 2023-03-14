@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mary Cathline</h1>
 <h3 align="center">Iam a Software engineering Student @ ALX.</h3>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="200"/>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marycathlin&label=Profile%20views&color=0e75b6&style=flat" alt="marycathlin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marycathlin" alt="marycathlin" /></a> </p>
